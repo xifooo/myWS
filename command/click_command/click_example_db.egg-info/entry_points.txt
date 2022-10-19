@@ -1,0 +1,4 @@
+
+        [console_scripts]  
+        clicktool=click_group2:cli
+    

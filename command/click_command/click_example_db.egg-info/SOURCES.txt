@@ -1,0 +1,8 @@
+clicktool.py
+setup.py
+click_example_db.egg-info/PKG-INFO
+click_example_db.egg-info/SOURCES.txt
+click_example_db.egg-info/dependency_links.txt
+click_example_db.egg-info/entry_points.txt
+click_example_db.egg-info/requires.txt
+click_example_db.egg-info/top_level.txt

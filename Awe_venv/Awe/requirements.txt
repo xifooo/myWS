@@ -1,0 +1,7 @@
+aiohttp
+jinja2
+markdown
+mysqlclient
+aiomysql
+watchdog
+logging
